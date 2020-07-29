@@ -1,8 +1,9 @@
 # Interlocking_Diagram
 
 1.Clone the repo in your PC
+      Create an empty folder named **models**
 
-2.**Download the following folder from the given link and keep it in the Interlocking_Diagram folder**
+2.**Download the following file from the given link and keep it in the Interlocking_Diagram folder in models folder**
       https://drive.google.com/drive/folders/1B32lUFUfOuil3oeqvpdYzROL_ddYIbOe?usp=sharing
   
 3.***Install python3 and pip3 using the given commands in terminal***
